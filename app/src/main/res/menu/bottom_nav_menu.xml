@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home_24"/>
+<!--    <item-->
+<!--        android:id="@+id/notification"-->
+<!--        android:title="Notification"-->
+<!--        android:icon="@drawable/notifications"/>-->
+    <item
+        android:id="@+id/clinics"
+        android:title="Clinics"
+        android:icon="@drawable/local_hospital_24"/>
+<!--    <item-->
+<!--        android:id="@+id/chat"-->
+<!--        android:title="Chat"-->
+<!--        android:icon="@drawable/chat_24"/>-->
+    <item
+        android:id="@+id/account"
+        android:title="Account"
+        android:icon="@drawable/account_box_24"/>
+</menu>

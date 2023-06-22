@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">My Pet Expert</string>
+    <string name="Started_Title">Hello All</string>
+    <string name="Sub_Title">Nice to meet you, come join our community!
+    </string>
+    <string name="register">Register</string>
+
+    <string name="login">LOGIN</string>
+
+    <string name="login_app">Login to App</string>
+
+    <string name="login_sub_title"><font color="#1a75ff"><b>Login</b></font>  if you already have an account</string>
+
+    <string name="enter_your_email_address">Enter Your Email Address</string>
+
+    <string name="enter_your_password">Enter Your Password</string>
+
+    <string name="login_havent_account">I don\'t have an account<font color="#1a8cff"><b>  Register</b></font></string>
+
+    <string name="login_now">Login Now</string>
+
+    <string name="create_an_account">Create an Account</string>
+
+    <string name="register_sub_title"><font color="#1a75ff"><b>Register</b></font> To get started with app</string>
+    <string name="enter_your_full_name">Enter Your Full Name</string>
+    <string name="enter_your_user_name">Enter Your User Name</string>
+    <string name="enter_confirm_passeord">Enter Confirm Passeord</string>
+    <string name="create_your_password">Create Your Password</string>
+    <string name="register_now">Register Now</string>
+    <string name="register_have_account">I already have an account<font color="#1a8cff"><b>  Login</b></font></string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="introduction_text">Welcome to My Pet Expert, the ultimate guide to raising happy and healthy pets! Our app is designed to help pet owners take better care of their furry friends and make the process of pet care easier and more enjoyable.</string>
+
+
+    <string name="mypet">Navigation Drawer</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="features">Breed information: Find information on the different breeds of cats and dogs, including their traits, health concerns, and more. \n \n Pet food: Get expert advice on the best food for your pet\'s needs, including recommendations for different life stages and health conditions.\n \nTraining: Learn how to train your pet with our step-by-step guides, tips, and videos.\n \nMedicine: Get advice on common pet health concerns and how to manage them, including information on medications and treatments.</string>
+    <string name="mission">At My Pet Expert, our mission is to provide pet owners with a comprehensive resource for all aspects of pet care. We believe that every pet deserves the best care possible, and we\'re committed to making that happen with our innovative app.</string>
+    <string name="contact">We\'d love to hear from you! If you have any questions, comments, or suggestions for our app, please don\'t hesitate to reach out to us at [Contact Email or Phone Number].</string>
+    <string name="video_head_1st">How to train Persian cat || 10 method to train Persian cat || 5 Ways to Care for Persian Cats</string>
+    <string name="video_head_2nd">5 Things You Must Never Do to Your Persian Cat</string>
+    <string name="video_head_3rd">How do persian cats grow ? | persian cat growth stages | persian kitten time lapse</string>
+    <string name="dry_food_d">These foods often contain ingredients like chicken, fish, or lamb as the primary protein source and are fortified with essential nutrients.</string>
+    <string name="wet_food_d">Wet food can be beneficial for Persian cats as it provides hydration and can be easier to eat for cats with dental issues. Opt for high-quality wet cat food that is free from artificial additives or fillers.</string>
+    <string name="cooked_meatt_d">Offer small amounts of cooked lean meats like chicken or turkey as an occasional treat. Make sure to remove any bones, skin, or seasoning before feeding it to your cat.</string>
+    <string name="fish_d">Persian cats may enjoy small amounts of cooked fish like salmon or tuna. Ensure that the fish is boneless, cooked thoroughly, and free from any seasoning or added ingredients.</string>
+    <string name="egg_d">Cooked eggs can be a good source of protein for Persian cats. Scrambled or boiled eggs without any seasoning are suitable for feline consumption.</string>
+    <string name="deworming_d">Persian cats, like all cats, can be susceptible to internal parasites such as roundworms, tapeworms, and hookworms. Deworming medications help eliminate these parasites and may be prescribed by a veterinarian.</string>
+    <string name="flea_d">These medications are used to prevent and treat infestations of fleas and ticks, which can cause discomfort and transmit diseases. Examples include topical spot-on treatments, oral medications, or flea collars.</string>
+    <string name="antifungal_d">Persian cats can be prone to fungal infections, particularly in their ears or on their skin. Antifungal medications, such as topical creams or oral treatments, may be prescribed to address these infections.</string>
+    <string name="antibiotic_d">If a Persian cat develops a bacterial infection, antibiotics may be prescribed to combat the infection and promote healing. The specific antibiotic and dosage will depend on the type and severity of the infection.</string>
+</resources>

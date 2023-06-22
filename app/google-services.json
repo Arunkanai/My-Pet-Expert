@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147624997405",
+    "project_id": "my-pet-expert",
+    "storage_bucket": "my-pet-expert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147624997405:android:00f93be62953eb3de90cf4",
+        "android_client_info": {
+          "package_name": "com.arunkanai.mypetexpert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBANAsIejjuitRfnT08d-WFUJsnuKsVeak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
